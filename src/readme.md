@@ -27,11 +27,6 @@ vidtube/ ├── controllers/ ├── routes/ ├── models/ ├── mi
 
 ## 🔧 Setup Instructions
 
-1. **Clone the repo**
-
-```bash
-git clone https://github.com/your-username/vidtube.git
-cd vidtube
 
 
 ## Install Dependencies
